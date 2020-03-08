@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 	:video_game::crystal_ball:Welcome to Supeee corp	:crystal_ball::video_game:
 
-You can use the [editor on GitHub](https://github.com/Supeee-corp/supeeecorp.sup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here we love retro:joystick: games:video_game: and thats what we design.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And we do magic :crystal_ball:
 
-### Markdown
+### We code!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+well we work on this :computer:, this :desktop_computer:, this :keyboard:, this :computer_mouse:, this :iphone:, this :pager:, this :movie_camera:, this :dvd:, this :vhs:, this 	:wastebasket:, this :guitar:, this :trumpet:, this :headphones:, this :control_knobs: and this 	:video_game:.
 
-```markdown
-Syntax highlighted code block
+well what I ment is, we upload games on [scratch](https://scratch.mit.edu/)
 
-# Header 1
-## Header 2
-### Header 3
+we will soon move to unity, or we are.
 
-- Bulleted
-- List
+### Whats next?
+?
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Supeee-corp/supeeecorp.sup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:space_invader: :crossed_swords: :robot:  :alien:  	:ghost: 	:telescope:     	:satellite:
